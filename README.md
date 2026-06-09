@@ -9,10 +9,10 @@ This is my personal portfolio website built using React and Vite. It showcases m
 - JavaScript
 - CSS
 
-## Setup
-
-This project is already set up using Vite + React.
-
 ## Purpose
 
 The goal of this project is to build a clean and responsive portfolio to showcase my development skills as a junior programmer.
+
+## Author
+
+Programmer: John Paul S. Pasia
